@@ -57,13 +57,15 @@ Email: Jermaine.carlm@gmail.com
 - **BS in Computer Science**  
   *New Era University*  
   2023 - Present  
+<!---
   *Relevant Coursework*: [Insert key courses, e.g., Data Structures, Database Systems, Machine Learning]
+  --->
 
 ---
 
 ### 🏆 Certifications
 - **[SQL and Relational Databases 101]([https://github.com](https://courses.cognitiveclass.ai/certificates/7c9780e20ab44e6d8c72d48f9edb464f))**  
-  *Acquired foundational knowledge in database management and SQL querying.*
+  <!---*Acquired foundational knowledge in database management and SQL querying.*  --->
 
 ---
 
