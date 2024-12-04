@@ -64,7 +64,8 @@ Email: Jermaine.carlm@gmail.com
 ---
 
 ### 🏆 Certifications
-- **[SQL and Relational Databases 101]([https://github.com](https://courses.cognitiveclass.ai/certificates/7c9780e20ab44e6d8c72d48f9edb464f))**  
+<!--- **[SQL and Relational Databases 101]([https://github.com](https://courses.cognitiveclass.ai/certificates/7c9780e20ab44e6d8c72d48f9edb464f))** --->
+- **<a href="[https://courses.cognitiveclass.ai/certificates/7c9780e20ab44e6d8c72d48f9edb464f]">[SQL and Relational Databases 101]</a>**
   <!---*Acquired foundational knowledge in database management and SQL querying.*  --->
 
 ---
