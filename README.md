@@ -66,7 +66,7 @@ Email: Jermaine.carlm@gmail.com
 ### 🏆 Certifications
 <!--- **[SQL and Relational Databases 101]([https://github.com](https://courses.cognitiveclass.ai/certificates/7c9780e20ab44e6d8c72d48f9edb464f))** --->
 - **<a href="https://courses.cognitiveclass.ai/certificates/7c9780e20ab44e6d8c72d48f9edb464f">SQL and Relational Databases 101</a>**
-- **<a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5417204&trackId=OCI2024FNDCFA&key=d18c94deba3480a2d4f987a925356b5c1b808182">Oracle Cloud Infrastructure 2024 Foundations Associate</a>**
+- **<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=46F0D26EE3ECBA6D9B1DC6C1F3D9BC0D2556BE22D23CB04F4094CB211AD10B1F">Oracle Cloud Infrastructure 2024 Foundations Associate</a>**
   <!---*Acquired foundational knowledge in database management and SQL querying.*  --->
 
 ---
